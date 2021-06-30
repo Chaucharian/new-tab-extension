@@ -7,4 +7,5 @@ It's a beauty extension which create a dashboard-like interface where all your a
 `npm run build`
 
 Then loaded it into chrome `chrome://extension`
+You have to run `npm run build` every time you make a file change
 
